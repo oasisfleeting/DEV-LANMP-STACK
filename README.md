@@ -1,5 +1,5 @@
-##DEV-LANMP-STACK
-##===============
+#### DEV-LANMP-STACK
+#### ===============
 #### Linux Apache - Nginx - MYSQL - MariaDB - PHP
 #### This software IS free
 #### As soon as I crack this you'll get advanced features.
